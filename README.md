@@ -2,7 +2,7 @@
 Falixnodes Desktop is a web app for Windows, Mac, and Linux for users to quickly access their server panels. The app also gives you access to your dashboard and shows status from Falix's website. 
 
 ## Previews
-![image](https://imgur.com/YAueRRo.png)
+![image]()
 
  ## FAQ
 Q. Windows says the setup file is a virus.
@@ -16,11 +16,3 @@ A. Yes, this happens sometimes. Just reload the app by pressing Ctrl R / ⌘ R o
 
 Q. What is this built on?
 A. Just like Discord, this is built on Electron.  Electron is an open-source framework developed and maintained by GitHub. Electron allows for the development of desktop GUI applications using web technologies: It combines the Chromium rendering engine and the Node.js runtime. This makes it more easy for web developers to create apps for computers.
-
-Q. Panel is down!
-A. Do not report this to me. If the panel is down, please report to the official Falixnodes Discord server and alert Itz or Mario. 
-
-## Downloads
-> Windows v0.0.5 : https://korbsstudio.com/fx/app/downloads/Falix.zip
-
-> Mac 0.0.2 : https://korbsstudio.com/fx/app/downloads/Falix.dmg
